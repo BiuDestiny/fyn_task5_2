@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='fyn_task5_2'
